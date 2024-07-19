@@ -14,7 +14,6 @@
 <br>
 <div align="center">
   <a href="https://github.com/palmaaa">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=palmaaa&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=stars&custom_title=Gustavo Palma's Stats"/>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palmaaa&layout=compact&langs_count=10&theme=react"/>
   </a>
 </div>
